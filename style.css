@@ -35,3 +35,9 @@ main {
     bottom: 5%;
     left: 10%;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
